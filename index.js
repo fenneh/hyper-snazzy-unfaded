@@ -47,7 +47,7 @@ exports.decorateConfig = config => Object.assign({}, config, {
 			left: 0;
 			right: 0;
 			height: 1px;
-			background-color: rgba(255, 106, 193, 0.4);
+			background-color: rgba(255, 106, 193, 1);
 			transform: scaleX(0);
 			will-change: transform;
 		}
@@ -59,7 +59,7 @@ exports.decorateConfig = config => Object.assign({}, config, {
 		/* Fade the title of inactive tabs and the content of inactive panes */
 		.tab_text,
 		.term_term {
-			opacity: 0.6;
+			opacity: 1;
 			will-change: opacity;
 		}
 		.tab_active .tab_text,
