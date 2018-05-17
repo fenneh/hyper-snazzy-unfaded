@@ -4,18 +4,11 @@
 
 ![](screenshot.png)
 
-
 ## Install
 
 ```
-$ hyper install hyper-snazzy
+$ hyper install hyper-snazzy-unfaded
 ```
-
-
-## Tip
-
-To get the exact same look as in the screenshot, you need to use the [Pure](https://github.com/sindresorhus/pure) prompt, Menlo font, and the [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin to have commands highlighted.
-
 
 ## Related
 
@@ -26,7 +19,6 @@ To get the exact same look as in the screenshot, you need to use the [Pure](http
 - [emacs-snazzy](https://github.com/weijiangan/emacs-snazzy) - Emacs version
 - [termite-snazzy](https://github.com/kbobrowski/termite-snazzy) - Termite version
 - [deepin-snazzy](https://github.com/xxczaki/deepin-snazzy) - Linux Deepin terminal version
-
 
 ## License
 
