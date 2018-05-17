@@ -1,13 +1,13 @@
 {
-	"name": "hyper-snazzy",
+	"name": "hyper-snazzy-unfaded",
 	"version": "1.2.3",
 	"description": "Elegant Hyper theme with bright colors",
 	"license": "MIT",
-	"repository": "sindresorhus/hyper-snazzy",
+	"repository": "fenneh/hyper-snazzy-unfaded",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "fen",
+		"email": "npm@fenneh.xyz",
+		"url": "http://fenneh.xyz"
 	},
 	"files": [
 		"index.js"
@@ -15,6 +15,7 @@
 	"keywords": [
 		"hyper",
 		"hyper-theme",
-		"elegant"
+		"elegant",
+		"unfaded"
 	]
 }

@@ -1,4 +1,4 @@
-# hyper-snazzy [![Mentioned in Awesome Hyper](https://awesome.re/mentioned-badge.svg)](https://github.com/bnb/awesome-hyper)
+# hyper-snazzy-unfaded 
 
 > Elegant [Hyper](https://hyper.is) theme with bright colors
 

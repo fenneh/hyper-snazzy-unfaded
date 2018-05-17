@@ -40,12 +40,12 @@ exports.decorateConfig = config => Object.assign({}, config, {
 		}
 
 		.tab_active:before {
-			border-color: rgba(255, 106, 193, 0.25);
+			border-color: rgba(255, 106, 193, 1.0);
 		}
 
 		.terminal,
 		.term_fit:not(.term_term) {
-			opacity: 0.6;
+			opacity: 1.0;
 		}
 
 		.terminal.focus,
