@@ -16,6 +16,9 @@ All credits for this theme belong to https://github.com/sindresorhus/hyper-snazz
 
 This repo was created to stop terminals fading and has merged in fixes for Hyper 2.0
 
+* https://github.com/sindresorhus/hyper-snazzy/pull/43
+* https://github.com/sindresorhus/hyper-snazzy/issues/19
+
 ## Related
 
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - iTerm2 version
