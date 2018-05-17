@@ -10,6 +10,12 @@
 $ hyper install hyper-snazzy-unfaded
 ```
 
+## Origins
+
+All credits for this theme belong to https://github.com/sindresorhus/hyper-snazzy
+
+This repo was created to stop terminals fading and has merged in fixes for Hyper 2.0
+
 ## Related
 
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - iTerm2 version
@@ -22,4 +28,4 @@ $ hyper install hyper-snazzy-unfaded
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT ©
